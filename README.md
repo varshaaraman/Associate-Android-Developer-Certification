@@ -33,7 +33,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 #### Testing and Debugging
 >Writing tests to verify that the application's logic and user interface are performing as expected, and executing those tests using the developer tools. Candidates should be able to analyze application crashes, and find common bugs such as layout errors and memory leaks. This includes working with the debuggers to step through application code and verify expected behavior.
 
-- [ ] Write and execute a local JVM unit test
+- [x ] Write and execute a local JVM unit test
   - [ ] [[Fragmented Podcast] Episodeo 78 Ten Testing Strategies with Michael Bailey](http://fragmentedpodcast.com/episodes/78/) 
   - [ ] Getting Started with Testing 
     - [ ] [Android Developer Training][testing_and_debuggin_getting_started_testing]
